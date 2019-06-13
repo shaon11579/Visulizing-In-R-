@@ -1,4 +1,4 @@
-# Visulizing-In-R-
+# Visualize your data using scatter plots
 
 
 library("ggpubr")
